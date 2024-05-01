@@ -177,4 +177,6 @@ int main()
   head = delete_at_beginning(head);
   head = delete_at_position(head, 2);
   print_linked_list(head);
+
+  return 0;
 }
